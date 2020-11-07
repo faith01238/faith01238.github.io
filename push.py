@@ -6,7 +6,7 @@ if me:
     os.system(cmd)
     cmd = 'git commit -m ' + me
     os.system(cmd)
-    cmd = 'git push origin master'
+    cmd = 'git push'
     os.system(cmd)
 else:
     print("请传入参数")
