@@ -39,7 +39,7 @@ and also to make use of plenty of jekyll plugins.
 
 - Add `gem "lone-wolf-theme"` to your `Gemfile`.
 - Update bundled gems by using `bundle` command.
-- Add `theme    : "lone-wolf-theme"` to your `_config.yml`.
+- Add `theme    : "坐公交也用券"` to your `_config.yml`.
 
 ## Contribution
 
